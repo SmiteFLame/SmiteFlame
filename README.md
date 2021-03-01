@@ -3,7 +3,7 @@
 
 ## Stack
 
-- C++, 
+- C++, C#
 - Unity, UnrealEngine
 - DeapLearning, OpenCV, Python
 <br>

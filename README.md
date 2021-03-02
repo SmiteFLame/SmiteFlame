@@ -8,7 +8,7 @@
 - DeapLearning, OpenCV, Python
 <br>
 
-- Java, Spring 배우는 중
+- Java, Spring, HTML, CSS, JS, Vue.js 배우는 중
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lukigreen)](https://solved.ac/lukigreen)

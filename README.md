@@ -1,4 +1,4 @@
-### Dongguk University, MulMedia Enginnering <br> 2015 ~ 2021<br>
+### Dongguk University, MultiMedia Enginnering <br> 2015 ~ 2021<br>
 ### Samsung SW Academy For Youth - 5th<br>  2021 ~ now<br>  
 
 ## Stack

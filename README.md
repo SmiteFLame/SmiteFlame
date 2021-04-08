@@ -5,7 +5,6 @@
 
 - C++, C# 
 - Unity, UnrealEngine
-- DeapLearning, OpenCV, Python
 <br>
 
 - <b>SSAFY 교육</b>

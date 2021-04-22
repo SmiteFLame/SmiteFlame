@@ -1,17 +1,10 @@
-### Dongguk University, MultiMedia Enginnering <br> 2015 ~ 2021<br>
-### Samsung SW Academy For Youth - 5th<br>  2021 ~ now<br>  
-
+### Dongguk University, MultiMedia Enginnering
+<br> 2015.03 ~ 2021.02<br>
+### Dongguk univerSity, RiseGroup Undergraduate Researcher
+<br> 2019.06 ~ 2019.02<br>
+### Samsung SW Academy For Youth - 5th
+<br> 2021.01 ~ Now<br>
 ## Stack
-
-- C++, C# 
-- Unity, UnrealEngine
-<br>
-
-- <b>SSAFY 교육</b>
-- Java, Spring, HTML, CSS, JS, Vue.js 배우는 중
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smiteflame)](https://github.com/smiteflame/github-readme-stats)
-
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lukigreen)](https://solved.ac/lukigreen)
 

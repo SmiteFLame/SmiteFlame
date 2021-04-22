@@ -1,9 +1,9 @@
 ### Dongguk University, MultiMedia Enginnering
-<br> 2015.03 ~ 2021.02<br>
+ 2015.03 ~ 2021.02<br>
 ### Dongguk univerSity, RiseGroup Undergraduate Researcher
-<br> 2019.06 ~ 2019.02<br>
+ 2019.06 ~ 2019.02<br>
 ### Samsung SW Academy For Youth - 5th
-<br> 2021.01 ~ Now<br>
+ 2021.01 ~ Now<br>
 ## Stack
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lukigreen)](https://solved.ac/lukigreen)

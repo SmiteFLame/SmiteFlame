@@ -1,7 +1,7 @@
 ### Dongguk University, MultiMedia Enginnering
  2015.03 ~ 2021.02<br>
 ### Dongguk univerSity, RiseGroup Undergraduate Researcher
- 2019.06 ~ 2019.02<br>
+ 2019.06 ~ 2019.12<br>
 ### Samsung SW Academy For Youth - 5th
  2021.01 ~ Now<br>
 ## Stack

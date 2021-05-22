@@ -1,4 +1,4 @@
-# 양동혁(DongHyeok Yang) 
+# 양동혁(DongHyeok Yang)
 
 ### Dongguk University, MultiMedia Enginnering
  2015.03 ~ 2021.02<br>

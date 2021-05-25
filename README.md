@@ -4,8 +4,6 @@
  2015.03 ~ 2021.02<br>
 ### Dongguk univerSity, RiseGroup Undergraduate Researcher
  2019.06 ~ 2019.12<br>
-### VIZINF, Intern
- 2020.07
 ### Samsung SW Academy For Youth - 5th
  2021.01 ~ Now<br>
 ## Stack

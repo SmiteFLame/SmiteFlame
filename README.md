@@ -4,7 +4,7 @@
  2015.03 ~ 2021.02<br>
 ### Dongguk univerSity, RiseGroup Undergraduate Researcher
  2019.06 ~ 2019.12<br>
-### Samsung SW Academy For Youth - 5th
+### Samsung SW Academy For Youth - 5th 
  2021.01 ~ Now<br>
  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lukigreen)](https://solved.ac/lukigreen)

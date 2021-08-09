@@ -9,7 +9,7 @@
 ### Samsung SW Academy For Youth - 5th 
  2021.01.05 ~ 2021.08.06<br>
 ### Naver Financial Backend Intern
- 2021.08.09 ~ Soon<br>
+ 2021.08.09 ~ Now<br>
 
 ## Main Stack
 

@@ -10,7 +10,7 @@
  2021.01.05 ~ 2021.08.06 <br>
 ### Naver Financial, Financial Platform, Backend Intern
  2021.08.09 ~ 2021.10.01 <br>
-### Techtaka, ARGO, Backend Engineer
+### Techtaka, ARGO, TMS, Backend Engineer
  2021.12.27 ~ NOW <br>
 
 ## Stack

@@ -2,6 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmiteflame&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Career
+
+### Naver Financial, Financial Platform, Backend Intern
+#### 2021.08.09 ~ 2021.10.01
+### Techtaka, Transport Platform, Last Mile, Backend Engineer
+#### 2021.12.27 ~ NOW
 
 ## Student
 
@@ -11,13 +17,6 @@
 #### 2019.06.17 ~ 2019.12.20
 ### Samsung SW Academy For Youth, 5th
 #### 2021.01.05 ~ 2021.08.06
-
-## Career
-
-### Naver Financial, Financial Platform, Backend Intern
-#### 2021.08.09 ~ 2021.10.01
-### Techtaka, Transport Platform, Last Mile, Backend Engineer
-#### 2021.12.27 ~ NOW
 
 ## Stack
  

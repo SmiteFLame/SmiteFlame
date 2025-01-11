@@ -6,7 +6,7 @@
 
 ### Naver Financial, Financial Platform, Backend Intern
 #### 2021.08.09 ~ 2021.10.01
-### Techtaka, Customer Platform, Settlement / Transport, Sofeware Engineer  
+### Techtaka, Customer Platform, Settlement / Transport, Sofeware Engineer, L4
 #### 2021.12.27 ~ NOW
 
 ## Student
